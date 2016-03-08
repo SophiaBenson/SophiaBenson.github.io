@@ -1,0 +1,38 @@
+p{
+					color:#30423F ;
+				}
+				body{
+					background-color: #e5ffff
+					}	
+				img{
+					width: 800px;
+				}
+				img{	height:400px;
+				}	
+				header{
+					background-color: #b3ffff;
+					color:#30423F ;
+									}
+				h4{
+					font-size: 70px;
+				}					
+
+
+
+
+.nav-main li {display: inline; text-align: center;
+
+
+background: transparent;
+padding: 10px 10px;
+transition: background .5s ease;
+}
+.nav-main li a{ color: black; 
+transition: background .5s ease, color .5s ease;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+.nav-main li a:hover{ 
+	color: white; background: purple;
+	opacity: .5;

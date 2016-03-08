@@ -1,0 +1,14 @@
+.nav-main li {display: inline; text-align: center;
+background: transparent;
+padding: 10px 10px;
+transition: background .5s ease;
+}
+.nav-main li a{ color: black; 
+transition: background .5s ease, color .5s ease;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+.nav-main li a:hover{ 
+	color: white; background: purple;
+	opacity: .5;
