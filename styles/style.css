@@ -28,7 +28,9 @@ header {clear:both;
 			background: transparent;
 			padding: 20px 20px;
 			transition: background .5s ease;
-			background-color:#daad86;}
+			/*background-color:#daad86;*/}
+aside p {display: inline;
+	position: left;}
 		
 .nav-main li a{ color: black; 
 		transition: background .5s ease, color .5s ease;
