@@ -23,8 +23,8 @@ header {clear:both;
 			font-family: "Indie Flower", cursive;
 			/*border-style: solid;
 			border-color: #312c32;*/
-			width: 75%;}
-.nav-main li {display: inline; text-align: left;
+			width: 50%;}
+.nav-main li {display: block; text-align: left;
 			background: transparent;
 			padding: 20px 20px;
 			transition: background .5s ease;
