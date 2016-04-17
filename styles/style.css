@@ -1,5 +1,8 @@
-body {background-color:#f0eceb;
+body {/*background-color:#f0eceb;*/
+background: linear-gradient(to bottom,	#f0eceb, #A6BDA9 );
+/*background-image: url("images/bodyim.png")*/;
 	}
+.element {background: linear-gradient(to bottom,#A6BDA9, #f0eceb);}	
 
 .container {/*background-color: navy;*/
 			float: left;
@@ -12,7 +15,9 @@ body {background-color:#f0eceb;
 
 img {box-shadow: 0 2px 6px;
 		clear: both;}			
-header {clear:both;}
+header {clear:both;
+	background-image: url("headim.png");
+}
 #me {clear: both;}
 #objective {clear: both;
 			font-family: "Indie Flower", cursive;
@@ -39,6 +44,8 @@ header {clear:both;}
 		text-align: left;
 		border-bottom: solid;
 		border-color: #729f98;
-		border-bottom-width: 10px;}
+		border-bottom-width: 10px;
+	/*background-image: url("headim.png")*/;
+}
 .text {font-size: 25px;}
 
